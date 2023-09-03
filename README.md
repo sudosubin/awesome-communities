@@ -22,7 +22,7 @@ A curated list of awesome communities, and community programs.
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/ausg.webp">
 
 [__AUSG__ <sup>(AWSKRUG University Student Group)</sup>](https://ausg.me) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A cloud community for university student developers that shares experience with each other.
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A cloud community for university student developers that shares experience with each other. Interested in AWS, cloud, and programming.
 
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/pirogramming.webp">
 
