@@ -24,6 +24,11 @@ A curated list of awesome communities, and community programs.
 [__AUSG__ <sup>(AWSKRUG University Student Group)</sup>](https://ausg.me) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A cloud community for university student developers that shares experience with each other.
 
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/pirogramming.webp">
+
+[__Pirogramming__](https://pirogramming.com/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A web programming club for university students who did not major in computer science.
+
 ## Community Programs
 
 <!-- omit from toc -->
