@@ -34,7 +34,7 @@ Make sure your pull request satisfies the rules below.
 <sub><img width="16" height="16" src="./assets/icons/white_check_mark.svg" /></sub> Community description requirements
 
 - Please indicate the country with the most members in the form of a [flag emoji](#using-emoji). If you are a global community, please use the [globe emoji](#using-emoji).
-- Please briefly introduce the community in about 100 characters or less for clarity and readability.
+- Please briefly introduce the community in about 120 characters or less for clarity and readability.
 
 <sub><img width="16" height="16" src="./assets/icons/white_check_mark.svg" /></sub> Community must be active
 
