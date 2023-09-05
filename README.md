@@ -31,6 +31,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A web programming club for university students who did not major in computer science. \
 `#south-korea`, `#university`, `#web`
 
+<img align="left" width="74" height="74" alt="Community Logo" src="./assets/communities/sipe.webp">
+
+[__SIPE__](https://sipe.team/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT community where developers in the field participate to learn and communicate. \
+`#south-korea`, `#it`, `#study`
+
 ## Community Programs
 
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/aws-cloud-clubs.webp">
