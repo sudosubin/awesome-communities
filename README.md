@@ -33,7 +33,13 @@ A curated list of awesome communities, and community programs.
 
 ## Community Programs
 
-<img align="left" width="74" height="74" alt="Community Logo" src="./assets/community-programs/aws-community-builders.webp">
+<img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/aws-cloud-clubs.webp">
+
+[__AWS Cloud Clubs__](https://aws.amazon.com/developer/community/students/cloudclubs/) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> The student-led user groups for post-secondary level students and independent learners. \
+`#global`, `#aws`, `#university`
+
+<img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/aws-community-builders.webp">
 
 [__AWS Community Builders__](https://aws.amazon.com/developer/community/community-builders/) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program designed to recognize and support individuals passionate about AWS and dedicated to AWS community. \
