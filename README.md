@@ -69,6 +69,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program designed to recognize and support individuals passionate about AWS and dedicated to AWS community. \
 `#global`, `#aws`
 
+<img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/grafana-champions.webp">
+
+[__Grafana Champion__](https://grafana.com/community/champions/) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program celebrates community experts, amplifies contributions and fosters a partnership with the Grafana team. \
+`#global`, `#grafana`
+
 <!-- omit from toc -->
 ## Contributing
 
