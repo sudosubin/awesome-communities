@@ -37,6 +37,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A club where developers and designers work together on side projects. \
 `#south-korea`, `#design`, `#develop`
 
+<img align="left" width="74" height="74" alt="Community Logo" src="./assets/communities/likelion.webp">
+
+[__LIKELION__](https://likelion.net/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An university startup joint club. \
+`#south-korea`, `#university`, `#web`
+
 <img align="left" width="74" height="74" alt="Community Logo" src="./assets/communities/pirogramming.webp">
 
 [__Pirogramming__](https://pirogramming.com/) \
