@@ -31,6 +31,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Korea’s first university student big data joint club. \
 `#south-korea`, `#data`, `#data-engineering`, `#university`
 
+<img align="left" width="74" height="74" alt="Community Logo" src="./assets/communities/ddd.webp">
+
+[__DDD__](https://www.facebook.com/dddstudy) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A club where developers and designers work together on side projects. \
+`#south-korea`, `#design`, `#develop`
+
 <img align="left" width="74" height="74" alt="Community Logo" src="./assets/communities/pirogramming.webp">
 
 [__Pirogramming__](https://pirogramming.com/) \
