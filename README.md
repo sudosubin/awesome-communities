@@ -69,6 +69,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program designed to recognize and support individuals passionate about AWS and dedicated to AWS community. \
 `#global`, `#aws`
 
+<img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/github-compus-experts.webp">
+
+[__GitHub Campus Experts__](https://education.github.com/experts) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program for student leaders who build diverse and inclusive spaces to learn skills, share experiences, and build projects. \
+`#global`, `#github`, `#university`
+
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/grafana-champions.webp">
 
 [__Grafana Champion__](https://grafana.com/community/champions/) \
