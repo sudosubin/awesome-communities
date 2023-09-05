@@ -25,6 +25,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A cloud community for university student developers that shares experience with each other. \
 `#south-korea`, `#aws`, `#cloud`, `#university`
 
+<img align="left" width="74" height="74" alt="Community Logo" src="./assets/communities/boaz.webp">
+
+[__BOAZ__](https://www.bigdataboaz.com/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Korea’s first university student big data joint club. \
+`#south-korea`, `#data`, `#data-engineering`, `#university`
+
 <img align="left" width="74" height="74" alt="Community Logo" src="./assets/communities/pirogramming.webp">
 
 [__Pirogramming__](https://pirogramming.com/) \
