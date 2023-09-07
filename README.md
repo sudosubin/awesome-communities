@@ -69,6 +69,18 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program designed to recognize and support individuals passionate about AWS and dedicated to AWS community. \
 `#global`, `#aws`
 
+<img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/d2-campus-partner.webp">
+
+[__D2 Campus Partner__](https://d2.naver.com/program) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Supports clubs, groups, academic societies, seminars, and conferences to share development knowledge. \
+`#south-korea`, `#naver`, `#university`
+
+<img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/d2-community.webp">
+
+[__D2 Community__](https://d2.naver.com/program/community) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Supports developer community activities and help the results created in the community to be easily shared. \
+`#south-korea`, `#naver`
+
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/github-compus-experts.webp">
 
 [__GitHub Campus Experts__](https://education.github.com/experts) \
