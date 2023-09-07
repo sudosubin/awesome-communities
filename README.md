@@ -57,6 +57,8 @@ A curated list of awesome communities, and community programs.
 
 ## Community Programs
 
+![AWS](assets/banners/aws.webp)
+
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/aws-cloud-clubs.webp">
 
 [__AWS Cloud Clubs__](https://aws.amazon.com/developer/community/students/cloudclubs/) \
@@ -69,6 +71,8 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program designed to recognize and support individuals passionate about AWS and dedicated to AWS community. \
 `#global`, `#aws`
 
+![D2](assets/banners/d2.webp)
+
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/d2-campus-partner.webp">
 
 [__D2 Campus Partner__](https://d2.naver.com/program) \
@@ -80,6 +84,8 @@ A curated list of awesome communities, and community programs.
 [__D2 Community__](https://d2.naver.com/program/community) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Supports developer community activities and help the results created in the community to be easily shared. \
 `#south-korea`, `#naver`
+
+![Additional](assets/banners/additional.webp)
 
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/github-compus-experts.webp">
 
