@@ -21,7 +21,7 @@ Make sure your pull request satisfies the rules below.
 
 <sub><img width="16" height="16" src="./assets/icons/white_check_mark.svg" /></sub> Community image requirements
 
-- Community image should be optimized with [WebP](https://developers.google.com/speed/webp), and must be `128x128` pixel in resolution.
+- Community image should be optimized with [WebP](https://developers.google.com/speed/webp), and must be `256x256` pixel in resolution.
 
 <sub><img width="16" height="16" src="./assets/icons/white_check_mark.svg" /></sub> Community name requirements
 
