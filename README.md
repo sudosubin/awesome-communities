@@ -41,7 +41,7 @@ A curated list of awesome communities, and community programs.
 
 [__Geultto__](https://zzsza.notion.site/ac5b18a482fb4df497d4e8257ad4d516) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A group of developers who write blog articles. \
-`#south-korea`, `#it`, `#blog`
+`#south-korea`, `#writing`, `#it`, `#blog`
 
 <img align="left" width="74" height="74" alt="Community Logo" src="./assets/communities/likelion.webp">
 
