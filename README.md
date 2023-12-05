@@ -107,6 +107,28 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Supports developer community activities and help the results created in the community to be easily shared. \
 `#south-korea`, `#naver`
 
+---
+
+![Notion](assets/banners/notion.webp)
+
+<img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/notion-ambassadors.webp">
+
+[__Notion Ambassadors__](https://www.notion.so/Notion-Ambassadors-40c3b3ee8c744e7fad34ab4ac9765773) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Notion Ambassadors are passionate, volunteer enthusiasts who teach and share Notion with others. \
+`#global`, `#notion`
+
+<img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/notion-campus-leaders.webp">
+
+[__Notion Campus Leaders__](https://www.notion.so/Notion-Campus-Leaders-Program-5817b00cbaa244bca9e0e498804cbab4) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Enables student leaders at universities to share + teach Notion effectively, and build strong campus communities. \
+`#global`, `#notion`, `#university`
+
+<img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/notion-champions.webp">
+
+[__Notion Champions__](https://www.notion.so/Notion-Champions-20f977eb5fdd40d4a7a396f1742c3ea5) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Champions are the biggest Notion fans inside of companies. \
+`#global`, `#notion`, `#enterprise`
+
 <!-- omit from toc -->
 ## Contributing
 
