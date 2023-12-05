@@ -57,6 +57,20 @@ A curated list of awesome communities, and community programs.
 
 ## Community Programs
 
+<img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/github-compus-experts.webp">
+
+[__GitHub Campus Experts__](https://education.github.com/experts) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program for student leaders who build diverse and inclusive spaces to learn skills, share experiences, and build projects. \
+`#global`, `#github`, `#university`
+
+<img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/grafana-champions.webp">
+
+[__Grafana Champion__](https://grafana.com/community/champions/) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program celebrates community experts, amplifies contributions and fosters a partnership with the Grafana team. \
+`#global`, `#grafana`
+
+---
+
 ![AWS](assets/banners/aws.webp)
 
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/aws-cloud-clubs.webp">
@@ -71,6 +85,8 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program designed to recognize and support individuals passionate about AWS and dedicated to AWS community. \
 `#global`, `#aws`
 
+---
+
 ![D2](assets/banners/d2.webp)
 
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/d2-campus-partner.webp">
@@ -84,20 +100,6 @@ A curated list of awesome communities, and community programs.
 [__D2 Community__](https://d2.naver.com/program/community) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Supports developer community activities and help the results created in the community to be easily shared. \
 `#south-korea`, `#naver`
-
-![Additional](assets/banners/additional.webp)
-
-<img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/github-compus-experts.webp">
-
-[__GitHub Campus Experts__](https://education.github.com/experts) \
-<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program for student leaders who build diverse and inclusive spaces to learn skills, share experiences, and build projects. \
-`#global`, `#github`, `#university`
-
-<img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/grafana-champions.webp">
-
-[__Grafana Champion__](https://grafana.com/community/champions/) \
-<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program celebrates community experts, amplifies contributions and fosters a partnership with the Grafana team. \
-`#global`, `#grafana`
 
 <!-- omit from toc -->
 ## Contributing
