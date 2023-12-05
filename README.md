@@ -129,6 +129,22 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Champions are the biggest Notion fans inside of companies. \
 `#global`, `#notion`, `#enterprise`
 
+---
+
+![Slack](assets/banners/slack.webp)
+
+<img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/slack-champion-network.webp">
+
+__Slack Champion Network__ \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A community run by Slack that provides access to Slack teams and change management resources. \
+`#global`, `#slack`, `#enterprise`
+
+<img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/slack-community.webp">
+
+[__Slack Community__](https://slackcommunity.com/) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A global network of chapters run by dedicated volunteer organizers who are enthusiastic about Slack and want to share their experience and passion with others. \
+`#global`, `#slack`
+
 <!-- omit from toc -->
 ## Contributing
 
