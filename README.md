@@ -85,6 +85,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program designed to recognize and support individuals passionate about AWS and dedicated to AWS community. \
 `#global`, `#aws`
 
+<img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/aws-heroes.webp">
+
+[__AWS Heroes__](https://aws.amazon.com/developer/community/heroes/) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program recognizes a vibrant, worldwide group of AWS experts whose enthusiasm for knowledge-sharing has a real impact within the community. \
+`#global`, `#aws`
+
 ---
 
 ![D2](assets/banners/d2.webp)
