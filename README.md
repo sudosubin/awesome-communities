@@ -79,6 +79,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An university IT startup club. \
 `#south-korea`, `#university`, `#web`
 
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/mash-up.avif">
+
+[**Mash Up**](https://mash-up.kr/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT community where developers and designers collaborate to create innovative services, offering various programs and opportunities for growth. \
+`#south-korea`, `#project`
+
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/pirogramming.avif">
 
 [**Pirogramming**](https://pirogramming.com/) \
