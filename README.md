@@ -123,6 +123,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A web programming club for university students who did not major in computer science. \
 `#south-korea`, `#university`, `#web`
 
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/prography.avif">
+
+[**Prography**](https://pirogramming.com/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT community creating new value. \
+`#south-korea`, `#project`
+
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/sipe.avif">
 
 [**SIPE**](https://sipe.team/) \
