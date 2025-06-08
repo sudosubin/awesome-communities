@@ -215,6 +215,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> An extension of CNCF, furthering the mission of “making cloud native ubiquitous” through community leadership and mentorship. \
 `#global`, `#cloud`, `#cncf`
 
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/cursor-ambassadors.avif">
+
+[**Cursor Ambassadors**](https://cursorambassadors.notion.site/Cursor-Ambassadors-1cbba798b53c8076abdbe7424214db73) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Help fellow developers troubleshoot and optimize their Cursor workflow, and host Cursor community meetups, hackathons and workshops. \
+`#global`, `#cursor`, `#ai`
+
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/datadog-ambassadors.avif">
 
 [**Datadog Ambassadors**](https://www.datadoghq.com/ambassadors/) \
