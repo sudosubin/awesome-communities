@@ -59,7 +59,7 @@ A curated list of awesome communities, and community programs.
 
 [**SIPE**](https://sipe.team/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT community where developers in the field participate to learn and communicate. \
-`#south-korea`, `#it`, `#study`
+`#south-korea`, `#it`, `#networking`, `#study`
 
 ## Community Programs
 
