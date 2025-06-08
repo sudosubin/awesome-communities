@@ -25,6 +25,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A cloud community for university student developers that shares experience with each other. \
 `#south-korea`, `#aws`, `#cloud`, `#university`
 
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/bitamin.avif">
+
+[**BITAmin**](https://linktr.ee/bitamin1818) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Union big data analysis & ai club. \
+`#south-korea`, `#data`, `#university`
+
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/boaz.avif">
 
 [**BOAZ**](https://www.bigdataboaz.com/) \
