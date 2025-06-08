@@ -21,43 +21,43 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="74" height="74" alt="Community Logo" src="./assets/communities/ausg.webp">
 
-[__AUSG__ <sup>(AWSKRUG University Student Group)</sup>](https://ausg.me) \
+[**AUSG** <sup>(AWSKRUG University Student Group)</sup>](https://ausg.me) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A cloud community for university student developers that shares experience with each other. \
 `#south-korea`, `#aws`, `#cloud`, `#university`
 
 <img align="left" width="74" height="74" alt="Community Logo" src="./assets/communities/boaz.webp">
 
-[__BOAZ__](https://www.bigdataboaz.com/) \
+[**BOAZ**](https://www.bigdataboaz.com/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Korea’s first university student big data joint club. \
 `#south-korea`, `#data`, `#data-engineering`, `#university`
 
 <img align="left" width="74" height="74" alt="Community Logo" src="./assets/communities/ddd.webp">
 
-[__DDD__](https://www.facebook.com/dddstudy) \
+[**DDD**](https://www.facebook.com/dddstudy) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A club where developers and designers work together on side projects. \
 `#south-korea`, `#design`, `#develop`
 
 <img align="left" width="74" height="74" alt="Community Logo" src="./assets/communities/geultto.webp">
 
-[__Geultto__](https://zzsza.notion.site/ac5b18a482fb4df497d4e8257ad4d516) \
+[**Geultto**](https://zzsza.notion.site/ac5b18a482fb4df497d4e8257ad4d516) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A group of developers who write blog articles. \
 `#south-korea`, `#writing`, `#it`, `#blog`
 
 <img align="left" width="74" height="74" alt="Community Logo" src="./assets/communities/likelion.webp">
 
-[__LIKELION__](https://likelion.net/) \
+[**LIKELION**](https://likelion.net/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An university startup joint club. \
 `#south-korea`, `#university`, `#web`
 
 <img align="left" width="74" height="74" alt="Community Logo" src="./assets/communities/pirogramming.webp">
 
-[__Pirogramming__](https://pirogramming.com/) \
+[**Pirogramming**](https://pirogramming.com/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A web programming club for university students who did not major in computer science. \
 `#south-korea`, `#university`, `#web`
 
 <img align="left" width="74" height="74" alt="Community Logo" src="./assets/communities/sipe.webp">
 
-[__SIPE__](https://sipe.team/) \
+[**SIPE**](https://sipe.team/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT community where developers in the field participate to learn and communicate. \
 `#south-korea`, `#it`, `#study`
 
@@ -65,13 +65,13 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/github-compus-experts.webp">
 
-[__GitHub Campus Experts__](https://education.github.com/experts) \
+[**GitHub Campus Experts**](https://education.github.com/experts) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program for student leaders who build diverse and inclusive spaces to learn skills, share experiences, and build projects. \
 `#global`, `#github`, `#university`
 
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/grafana-champions.webp">
 
-[__Grafana Champion__](https://grafana.com/community/champions/) \
+[**Grafana Champion**](https://grafana.com/community/champions/) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program celebrates community experts, amplifies contributions and fosters a partnership with the Grafana team. \
 `#global`, `#grafana`
 
@@ -81,19 +81,19 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/aws-cloud-clubs.webp">
 
-[__AWS Cloud Clubs__](https://aws.amazon.com/developer/community/students/cloudclubs/) \
+[**AWS Cloud Clubs**](https://aws.amazon.com/developer/community/students/cloudclubs/) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> The student-led user groups for post-secondary level students and independent learners. \
 `#global`, `#aws`, `#university`
 
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/aws-community-builders.webp">
 
-[__AWS Community Builders__](https://aws.amazon.com/developer/community/community-builders/) \
+[**AWS Community Builders**](https://aws.amazon.com/developer/community/community-builders/) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program designed to recognize and support individuals passionate about AWS and dedicated to AWS community. \
 `#global`, `#aws`
 
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/aws-heroes.webp">
 
-[__AWS Heroes__](https://aws.amazon.com/developer/community/heroes/) \
+[**AWS Heroes**](https://aws.amazon.com/developer/community/heroes/) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program recognizes a vibrant, worldwide group of AWS experts whose enthusiasm for knowledge-sharing has a real impact within the community. \
 `#global`, `#aws`
 
@@ -103,13 +103,13 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/d2-campus-partner.webp">
 
-[__D2 Campus Partner__](https://d2.naver.com/program) \
+[**D2 Campus Partner**](https://d2.naver.com/program) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Supports clubs, groups, academic societies, seminars, and conferences to share development knowledge. \
 `#south-korea`, `#naver`, `#university`
 
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/d2-community.webp">
 
-[__D2 Community__](https://d2.naver.com/program/community) \
+[**D2 Community**](https://d2.naver.com/program/community) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Supports developer community activities and help the results created in the community to be easily shared. \
 `#south-korea`, `#naver`
 
@@ -119,19 +119,19 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/notion-ambassadors.webp">
 
-[__Notion Ambassadors__](https://www.notion.so/Notion-Ambassadors-40c3b3ee8c744e7fad34ab4ac9765773) \
+[**Notion Ambassadors**](https://www.notion.so/Notion-Ambassadors-40c3b3ee8c744e7fad34ab4ac9765773) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Notion Ambassadors are passionate, volunteer enthusiasts who teach and share Notion with others. \
 `#global`, `#notion`
 
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/notion-campus-leaders.webp">
 
-[__Notion Campus Leaders__](https://www.notion.so/Notion-Campus-Leaders-Program-5817b00cbaa244bca9e0e498804cbab4) \
+[**Notion Campus Leaders**](https://www.notion.so/Notion-Campus-Leaders-Program-5817b00cbaa244bca9e0e498804cbab4) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Enables student leaders at universities to share + teach Notion effectively, and build strong campus communities. \
 `#global`, `#notion`, `#university`
 
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/notion-champions.webp">
 
-[__Notion Champions__](https://www.notion.so/Notion-Champions-20f977eb5fdd40d4a7a396f1742c3ea5) \
+[**Notion Champions**](https://www.notion.so/Notion-Champions-20f977eb5fdd40d4a7a396f1742c3ea5) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Champions are the biggest Notion fans inside of companies. \
 `#global`, `#notion`, `#enterprise`
 
@@ -141,13 +141,13 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/slack-champion-network.webp">
 
-__Slack Champion Network__ \
+**Slack Champion Network** \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A community run by Slack that provides access to Slack teams and change management resources. \
 `#global`, `#slack`, `#enterprise`
 
 <img align="left" width="74" height="74" alt="Community Program Logo" src="./assets/community-programs/slack-community.webp">
 
-[__Slack Community__](https://slackcommunity.com/) \
+[**Slack Community**](https://slackcommunity.com/) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A global network of chapters run by dedicated volunteer organizers who are enthusiastic about Slack and want to share their experience and passion with others. \
 `#global`, `#slack`
 
