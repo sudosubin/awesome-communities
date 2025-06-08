@@ -121,6 +121,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A big data and ai academic union club. \
 `#south-korea`, `#data`, `#university`
 
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/umc.avif">
+
+[**UMC** <sup>(University MakeUs Challenge)</sup>](https://umc.makeus.in/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An university student development union club. \
+`#south-korea`, `#university`, `#study`
+
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/xreal.avif">
 
 [**XREAL**](https://www.xreal.info/) \
