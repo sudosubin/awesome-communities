@@ -45,8 +45,8 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/likelion.avif">
 
-[**LIKELION**](https://likelion.net/) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An university startup joint club. \
+[**LIKELION UNIVERSITY**](https://likelion.university/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An university IT startup club. \
 `#south-korea`, `#university`, `#web`
 
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/pirogramming.avif">
