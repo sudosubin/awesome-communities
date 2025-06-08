@@ -99,7 +99,7 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT society that grows together with a vision. \
 `#south-korea`, `#university`
 
-<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/likelion.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/likelion-university.avif">
 
 [**LIKELION UNIVERSITY**](https://likelion.university/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An university IT startup club. \
