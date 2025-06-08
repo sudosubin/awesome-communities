@@ -107,6 +107,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Notion Ambassadors are passionate, volunteer enthusiasts who teach and share Notion with others. \
 `#global`, `#notion`
 
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/notion-builders.avif">
+
+[**Notion Builders**](https://www.notion.com/builders) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Notion Builders is a program for creators, founders, and innovators who are building the future–on Notion. \
+`#global`, `#notion`
+
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/notion-campus-leaders.avif">
 
 [**Notion Campus Leaders**](https://notion.notion.site/Notion-Campus-Leaders-Program-5817b00cbaa244bca9e0e498804cbab4) \
