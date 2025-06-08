@@ -209,6 +209,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program that works directly with the Anthropic team to launch outreach campaigns and educational programs on campus. \
 `#global`, `#claude`, `#university`
 
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/docker-captains.avif">
+
+[**Docker Captains**](https://www.docker.com/community/captains/) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Technical experts and passionate community builders who drive Docker’s ecosystem forward. \
+`#global`, `#docker`
+
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/github-compus-experts.avif">
 
 [**GitHub Campus Experts**](https://education.github.com/experts) \
