@@ -285,6 +285,22 @@ A curated list of awesome communities, and community programs.
 
 ---
 
+![Microsoft](./assets/banners/microsoft.avif)
+
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/microsoft-most-valuable-professionals.avif">
+
+[**Microsoft Most Valuable Professionals**](https://mvp.microsoft.com/en-US/mvp) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program connects technical community leaders with Microsoft to promote engagement, advocacy, and knowledge sharing on Microsoft Products & Services. \
+`#global`, `#microsoft`
+
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/microsoft-student-ambassadors.avif">
+
+[**Microsoft Student Ambassadors**](https://mvp.microsoft.com/en-US/studentambassadors) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A community of students who are passionate about building AI-driven solutions with Microsoft technology. \
+`#global`, `#microsoft`, `#university`
+
+---
+
 ![Notion](./assets/banners/notion.avif)
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/notion-ambassadors.avif">
