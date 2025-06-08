@@ -209,6 +209,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program that works directly with the Anthropic team to launch outreach campaigns and educational programs on campus. \
 `#global`, `#claude`, `#university`
 
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/cncf-ambassadors.avif">
+
+[**CNCF Ambassadors**](https://www.cncf.io/people/ambassadors/) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> An extension of CNCF, furthering the mission of “making cloud native ubiquitous” through community leadership and mentorship. \
+`#global`, `#cloud`, `#cncf`
+
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/datadog-ambassadors.avif">
 
 [**Datadog Ambassadors**](https://www.datadoghq.com/ambassadors/) \
