@@ -67,6 +67,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT community where developers in the field participate to learn and communicate. \
 `#south-korea`, `#it`, `#networking`, `#study`
 
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/xreal.avif">
+
+[**XREAL**](https://www.xreal.info/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> The world's leading XR, metaverse research and startup network. \
+`#south-korea`, `#metaverse`, `#xr`
+
 ## Community Programs
 
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/github-compus-experts.avif">
