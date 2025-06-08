@@ -103,19 +103,19 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/notion-ambassadors.avif">
 
-[**Notion Ambassadors**](https://www.notion.so/Notion-Ambassadors-40c3b3ee8c744e7fad34ab4ac9765773) \
+[**Notion Ambassadors**](https://notion.notion.site/Notion-Ambassador-Program-40c3b3ee8c744e7fad34ab4ac9765773) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Notion Ambassadors are passionate, volunteer enthusiasts who teach and share Notion with others. \
 `#global`, `#notion`
 
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/notion-campus-leaders.avif">
 
-[**Notion Campus Leaders**](https://www.notion.so/Notion-Campus-Leaders-Program-5817b00cbaa244bca9e0e498804cbab4) \
+[**Notion Campus Leaders**](https://notion.notion.site/Notion-Campus-Leaders-Program-5817b00cbaa244bca9e0e498804cbab4) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Enables student leaders at universities to share + teach Notion effectively, and build strong campus communities. \
 `#global`, `#notion`, `#university`
 
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/notion-champions.avif">
 
-[**Notion Champions**](https://www.notion.so/Notion-Champions-20f977eb5fdd40d4a7a396f1742c3ea5) \
+[**Notion Champions**](https://notion.notion.site/Notion-Champions-20f977eb5fdd40d4a7a396f1742c3ea5) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Champions are the biggest Notion fans inside of companies. \
 `#global`, `#notion`, `#enterprise`
 
