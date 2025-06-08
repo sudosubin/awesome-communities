@@ -49,6 +49,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A club where developers and designers work together on side projects. \
 `#south-korea`, `#design`, `#develop`
 
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/dnd.avif">
+
+[**DND**](https://dnd.ac/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A growing non-profit IT organization for developers and designers. \
+`#south-korea`, `#project`
+
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/geultto.avif">
 
 [**Geultto**](https://zzsza.notion.site/ac5b18a482fb4df497d4e8257ad4d516) \
