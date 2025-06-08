@@ -159,6 +159,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Korea's largest university student IT venture startup club. \
 `#south-korea`, `#university`, `#project`
 
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/susc.avif">
+
+[**SUSC**](https://www.susc.kr/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A community of university students sharing knowledge and experience. \
+`#south-korea`, `#university`, `#study`
+
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/swyp.avif">
 
 [**SWYP**](https://swyp.swyg.im/) \
