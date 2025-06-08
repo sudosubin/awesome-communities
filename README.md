@@ -221,12 +221,6 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Technical experts and passionate community builders who drive Docker’s ecosystem forward. \
 `#global`, `#docker`
 
-<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/github-compus-experts.avif">
-
-[**GitHub Campus Experts**](https://education.github.com/experts) \
-<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program for student leaders who build diverse and inclusive spaces to learn skills, share experiences, and build projects. \
-`#global`, `#github`, `#university`
-
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/grafana-champions.avif">
 
 [**Grafana Champion**](https://grafana.com/community/champions/) \
@@ -262,6 +256,22 @@ A curated list of awesome communities, and community programs.
 [**AWS Heroes**](https://aws.amazon.com/developer/community/heroes/) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program recognizes a vibrant, worldwide group of AWS experts whose enthusiasm for knowledge-sharing has a real impact within the community. \
 `#global`, `#aws`
+
+---
+
+![GitHub](./assets/banners/github.avif)
+
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/github-compus-experts.avif">
+
+[**GitHub Campus Experts**](https://education.github.com/experts) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program for student leaders who build diverse and inclusive spaces to learn skills, share experiences, and build projects. \
+`#global`, `#github`, `#university`
+
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/github-stars.avif">
+
+[**GitHub Stars**](https://stars.github.com/) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Recognize and lift up the people who inspire and educate your communities with the GitHub Stars program. \
+`#global`, `#github`
 
 ---
 
