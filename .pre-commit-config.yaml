@@ -1,0 +1,12 @@
+repos:
+  - repo: https://github.com/sudosubin/pre-commit-image
+    rev: v0.1.2
+    hooks:
+      - id: image
+        name: image (banners)
+        args: [--max-width, "1660", --max-height, "200", --extension, avif]
+        files: ^assets/banners/
+      - id: image
+        name: image (communities)
+        args: [--max-width, "256", --max-height, "256", --extension, avif]
+        files: ^assets/communities/
