@@ -99,22 +99,6 @@ A curated list of awesome communities, and community programs.
 
 ---
 
-![D2](./assets/banners/d2.avif)
-
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/d2-campus-partner.avif">
-
-[**D2 Campus Partner**](https://d2.naver.com/program) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Supports clubs, groups, academic societies, seminars, and conferences to share development knowledge. \
-`#south-korea`, `#naver`, `#university`
-
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/d2-community.avif">
-
-[**D2 Community**](https://d2.naver.com/program/community) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Supports developer community activities and help the results created in the community to be easily shared. \
-`#south-korea`, `#naver`
-
----
-
 ![Notion](./assets/banners/notion.avif)
 
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/notion-ambassadors.avif">
