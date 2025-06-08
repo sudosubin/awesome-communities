@@ -67,6 +67,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A group of developers who write blog articles. \
 `#south-korea`, `#writing`, `#it`, `#blog`
 
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/kusitms.avif">
+
+[**KUSITMS** <sup>(Korean University Students IT, Management Society)</sup>](https://www.kusitms.com/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT society that grows together with a vision. \
+`#south-korea`, `#university`
+
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/likelion.avif">
 
 [**LIKELION UNIVERSITY**](https://likelion.university/) \
