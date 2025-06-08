@@ -19,6 +19,14 @@ A curated list of awesome communities, and community programs.
 
 ## Communities
 
+<!-- 9oormthonUNIV -->
+
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/9oormthon-univ.avif">
+
+[**9oormthonUNIV**](https://9oormthon.university/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An university IT club with Kakao, goorm, cherry blossoms, and maple leaves. \
+`#south-korea`, `#university`, `#hackathon`
+
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/ausg.avif">
 
 [**AUSG** <sup>(AWSKRUG University Student Group)</sup>](https://ausg.me) \
