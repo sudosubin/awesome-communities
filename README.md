@@ -37,6 +37,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Korea’s first university student big data joint club. \
 `#south-korea`, `#data`, `#data-engineering`, `#university`
 
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/cmc.avif">
+
+[**CMC** <sup>(Central MakeUs Challenge)</sup>](https://cmc.makeus.in/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT community where work together to create an MVP product for revenue generation for 3 months. \
+`#south-korea`, `#project`
+
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/ddd.avif">
 
 [**DDD**](https://www.facebook.com/dddstudy) \
