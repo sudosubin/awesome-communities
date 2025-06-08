@@ -133,6 +133,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> The world's leading XR, metaverse research and startup network. \
 `#south-korea`, `#metaverse`, `#xr`
 
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/yapp.avif">
+
+[**YAPP**](https://www.yapp.co.kr/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A corporate IT community that starts with a small idea, changes the world, and grows together. \
+`#south-korea`, `#project`
+
 ## Community Programs
 
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/github-compus-experts.avif">
