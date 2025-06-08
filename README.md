@@ -109,6 +109,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Korea's largest university student IT venture startup club. \
 `#south-korea`, `#university`, `#project`
 
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/tave.avif">
+
+[**TAVE**](https://www.tave-wave.com/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT union club leading the future through convergence with various fields. \
+`#south-korea`, `#university`, `#it`
+
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/tobig-s.avif">
 
 [**TOBIG's**](http://www.datamarket.kr/xe/) \
