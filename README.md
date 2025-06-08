@@ -85,6 +85,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT community where developers and designers collaborate to create innovative services, offering various programs and opportunities for growth. \
 `#south-korea`, `#project`
 
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/nexters.avif">
+
+[**NEXTERS**](https://nexters.co.kr/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A gathering for developers and designers leading the IT industry. \
+`#south-korea`, `#project`
+
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/pirogramming.avif">
 
 [**Pirogramming**](https://pirogramming.com/) \
