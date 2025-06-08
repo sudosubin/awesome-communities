@@ -12,7 +12,7 @@ Make sure your pull request satisfies the rules below.
 <sub><img width="16" height="16" src="./assets/icons/white_check_mark.svg" /></sub> Community should use this format
 
 ```markdown
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/{name}.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/{name}.avif">
 
 [__{Community Name}__]({url}) \
 <sub><img width="16" height="16" src="./assets/icons/{flag}.svg" /></sub> {description here} \

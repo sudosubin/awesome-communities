@@ -21,181 +21,181 @@ A curated list of awesome communities, and community programs.
 
 <!-- 9oormthonUNIV -->
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/9oormthon-univ.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/9oormthon-univ.avif">
 
 [**9oormthonUNIV**](https://9oormthon.university/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An university IT club with Kakao, goorm, cherry blossoms, and maple leaves. \
 `#south-korea`, `#university`, `#hackathon`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/ausg.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/ausg.avif">
 
 [**AUSG** <sup>(AWSKRUG University Student Group)</sup>](https://ausg.me) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A cloud community for university student developers that shares experience with each other. \
 `#south-korea`, `#aws`, `#cloud`, `#university`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/bitamin.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/bitamin.avif">
 
 [**BITAmin**](https://linktr.ee/bitamin1818) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Union big data analysis & ai club. \
 `#south-korea`, `#data`, `#university`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/boaz.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/boaz.avif">
 
 [**BOAZ**](https://www.bigdataboaz.com/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Korea’s first university student big data joint club. \
 `#south-korea`, `#data`, `#data-engineering`, `#university`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/cloud-club.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/cloud-club.avif">
 
 [**Cloud Club**](https://www.cloudclub.kr/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> IT Alliance Club of the Cloud, by the Cloud, for the Cloud. \
 `#south-korea`, `#cloud`, `#study`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/cmc.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/cmc.avif">
 
 [**CMC** <sup>(Central MakeUs Challenge)</sup>](https://cmc.makeus.in/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT community where work together to create an MVP product for revenue generation for 3 months. \
 `#south-korea`, `#project`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/ddd.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/ddd.avif">
 
 [**DDD**](https://www.facebook.com/dddstudy) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A club where developers and designers work together on side projects. \
 `#south-korea`, `#design`, `#develop`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/depromeet.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/depromeet.avif">
 
 [**Depromeet**](https://www.depromeet.com/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A growth-oriented community that experiences the entire process from planning, release, and improvement. \
 `#south-korea`, `#project`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/dnd.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/dnd.avif">
 
 [**DND**](https://dnd.ac/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A growing non-profit IT organization for developers and designers. \
 `#south-korea`, `#project`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/fun-d.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/fun-d.avif">
 
 [**Fun.d**](https://cafe.naver.com/eofl7942) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT project community where planners, designers, developers, and marketers gather to grow through learning and exchange. \
 `#south-korea`, `#project`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/geultto.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/geultto.avif">
 
 [**Geultto**](https://zzsza.notion.site/ac5b18a482fb4df497d4e8257ad4d516) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A group of developers who write blog articles. \
 `#south-korea`, `#writing`, `#it`, `#blog`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/it-s-time.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/it-s-time.avif">
 
 [**IT's TIME**](https://its-time.notion.site/IT-s-TIME-715069e1238344938130b998480886be) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A club that turns new services that have never existed, and ideas with high business potential into reality. \
 `#south-korea`, `#university`, `#project`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/kusitms.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/kusitms.avif">
 
 [**KUSITMS** <sup>(Korean University Students IT, Management Society)</sup>](https://www.kusitms.com/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT society that grows together with a vision. \
 `#south-korea`, `#university`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/likelion.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/likelion.avif">
 
 [**LIKELION UNIVERSITY**](https://likelion.university/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An university IT startup club. \
 `#south-korea`, `#university`, `#web`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/mash-up.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/mash-up.avif">
 
 [**Mash Up**](https://mash-up.kr/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT community where developers and designers collaborate to create innovative services, offering various programs and opportunities for growth. \
 `#south-korea`, `#project`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/medilux.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/medilux.avif">
 
 [**MEDILUX**](https://medilux.notion.site/MEDILUX-8f6b28b00b274bd697d05ea4d0a9afdc) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A healthcare startup club created through the voluntary interest of members in the healthcare industry. \
 `#south-korea`, `#university`, `#health-care`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/monday9pm.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/monday9pm.avif">
 
 [**Monday9pm**](https://monday9pm.com/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A gathering of developers who consistently write and share knowledge. \
 `#south-korea`, `#writing`, `#it`, `#blog`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/nexters.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/nexters.avif">
 
 [**NEXTERS**](https://nexters.co.kr/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A gathering for developers and designers leading the IT industry. \
 `#south-korea`, `#project`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/pap.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/pap.avif">
 
 [**PAP**](https://playinpap.oopy.io/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A product data analysis community founded in September 2021 by seven product analysts, data analysts, and data product owners. \
 `#south-korea`, `#data`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/pirogramming.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/pirogramming.avif">
 
 [**Pirogramming**](https://pirogramming.com/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A web programming club for university students who did not major in computer science. \
 `#south-korea`, `#university`, `#web`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/prography.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/prography.avif">
 
 [**Prography**](https://pirogramming.com/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT community creating new value. \
 `#south-korea`, `#project`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/sipe.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/sipe.avif">
 
 [**SIPE**](https://sipe.team/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT community where developers in the field participate to learn and communicate. \
 `#south-korea`, `#it`, `#networking`, `#study`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/sopt.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/sopt.avif">
 
 [**SOPT**](https://www.sopt.org/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Korea's largest university student IT venture startup club. \
 `#south-korea`, `#university`, `#project`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/susc.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/susc.avif">
 
 [**SUSC**](https://www.susc.kr/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A community of university students sharing knowledge and experience. \
 `#south-korea`, `#university`, `#study`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/swyp.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/swyp.avif">
 
 [**SWYP**](https://swyp.swyg.im/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A program where you can experience and grow together from ideation to launch while working on a project. \
 `#south-korea`, `#project`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/tave.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/tave.avif">
 
 [**TAVE**](https://www.tave-wave.com/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT union club leading the future through convergence with various fields. \
 `#south-korea`, `#university`, `#it`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/tobig-s.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/tobig-s.avif">
 
 [**TOBIG's**](http://www.datamarket.kr/xe/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A big data and ai academic union club. \
 `#south-korea`, `#data`, `#university`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/umc.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/umc.avif">
 
 [**UMC** <sup>(University MakeUs Challenge)</sup>](https://umc.makeus.in/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An university student development union club. \
 `#south-korea`, `#university`, `#study`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/xreal.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/xreal.avif">
 
 [**XREAL**](https://www.xreal.info/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> The world's leading XR, metaverse research and startup network. \
 `#south-korea`, `#metaverse`, `#xr`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/yapp.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/yapp.avif">
 
 [**YAPP**](https://www.yapp.co.kr/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A corporate IT community that starts with a small idea, changes the world, and grows together. \
@@ -203,13 +203,13 @@ A curated list of awesome communities, and community programs.
 
 ## Community Programs
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/github-compus-experts.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/github-compus-experts.avif">
 
 [**GitHub Campus Experts**](https://education.github.com/experts) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program for student leaders who build diverse and inclusive spaces to learn skills, share experiences, and build projects. \
 `#global`, `#github`, `#university`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/grafana-champions.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/grafana-champions.avif">
 
 [**Grafana Champion**](https://grafana.com/community/champions/) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program celebrates community experts, amplifies contributions and fosters a partnership with the Grafana team. \
@@ -219,19 +219,19 @@ A curated list of awesome communities, and community programs.
 
 ![AWS](./assets/banners/aws.avif)
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/aws-cloud-clubs.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/aws-cloud-clubs.avif">
 
 [**AWS Cloud Clubs**](https://aws.amazon.com/developer/community/students/cloudclubs/) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> The student-led user groups for post-secondary level students and independent learners. \
 `#global`, `#aws`, `#university`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/aws-community-builders.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/aws-community-builders.avif">
 
 [**AWS Community Builders**](https://aws.amazon.com/developer/community/community-builders/) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program designed to recognize and support individuals passionate about AWS and dedicated to AWS community. \
 `#global`, `#aws`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/aws-heroes.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/aws-heroes.avif">
 
 [**AWS Heroes**](https://aws.amazon.com/developer/community/heroes/) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program recognizes a vibrant, worldwide group of AWS experts whose enthusiasm for knowledge-sharing has a real impact within the community. \
@@ -241,25 +241,25 @@ A curated list of awesome communities, and community programs.
 
 ![Notion](./assets/banners/notion.avif)
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/notion-ambassadors.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/notion-ambassadors.avif">
 
 [**Notion Ambassadors**](https://notion.notion.site/Notion-Ambassador-Program-40c3b3ee8c744e7fad34ab4ac9765773) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Notion Ambassadors are passionate, volunteer enthusiasts who teach and share Notion with others. \
 `#global`, `#notion`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/notion-builders.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/notion-builders.avif">
 
 [**Notion Builders**](https://www.notion.com/builders) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Notion Builders is a program for creators, founders, and innovators who are building the future–on Notion. \
 `#global`, `#notion`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/notion-campus-leaders.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/notion-campus-leaders.avif">
 
 [**Notion Campus Leaders**](https://notion.notion.site/Notion-Campus-Leaders-Program-5817b00cbaa244bca9e0e498804cbab4) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Enables student leaders at universities to share + teach Notion effectively, and build strong campus communities. \
 `#global`, `#notion`, `#university`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/notion-champions.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/notion-champions.avif">
 
 [**Notion Champions**](https://notion.notion.site/Notion-Champions-20f977eb5fdd40d4a7a396f1742c3ea5) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Champions are the biggest Notion fans inside of companies. \
@@ -269,13 +269,13 @@ A curated list of awesome communities, and community programs.
 
 ![Slack](./assets/banners/slack.avif)
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/slack-champion-network.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/slack-champion-network.avif">
 
 **Slack Champion Network** \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A community run by Slack that provides access to Slack teams and change management resources. \
 `#global`, `#slack`, `#enterprise`
 
-<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/slack-community.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/slack-community.avif">
 
 [**Slack Community**](https://slackcommunity.com/) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A global network of chapters run by dedicated volunteer organizers who are enthusiastic about Slack and want to share their experience and passion with others. \
