@@ -221,6 +221,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Technical experts and passionate community builders who drive Docker’s ecosystem forward. \
 `#global`, `#docker`
 
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/google-developer-experts.avif">
+
+[**Google Developer Experts**](https://developers.google.com/community/experts/) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A recognized leader, sharing passion for Google technologies. \
+`#global`, `#github`
+
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/grafana-champions.avif">
 
 [**Grafana Champion**](https://grafana.com/community/champions/) \
