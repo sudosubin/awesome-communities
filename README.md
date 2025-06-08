@@ -117,6 +117,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A healthcare startup club created through the voluntary interest of members in the healthcare industry. \
 `#south-korea`, `#university`, `#health-care`
 
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/monday9pm.avif">
+
+[**Monday9pm**](https://monday9pm.com/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A gathering of developers who consistently write and share knowledge. \
+`#south-korea`, `#writing`, `#it`, `#blog`
+
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/nexters.avif">
 
 [**NEXTERS**](https://nexters.co.kr/) \
