@@ -12,7 +12,7 @@ Make sure your pull request satisfies the rules below.
 <sub><img width="16" height="16" src="./assets/icons/white_check_mark.svg" /></sub> Community should use this format
 
 ```markdown
-<img align="left" width="74" height="74" alt="Community Logo" src="./assets/communities/{name}.webp">
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/{name}.avif">
 
 [__{Community Name}__]({url}) \
 <sub><img width="16" height="16" src="./assets/icons/{flag}.svg" /></sub> {description here} \
@@ -21,7 +21,7 @@ Make sure your pull request satisfies the rules below.
 
 <sub><img width="16" height="16" src="./assets/icons/white_check_mark.svg" /></sub> Community image requirements
 
-- Community image should be optimized with [WebP](https://developers.google.com/speed/webp), and must be `256x256` pixel in resolution.
+- Community image should be optimized with [AVIF](https://aomediacodec.github.io/av1-avif/), and must be `256x256` pixel in resolution.
 
 <sub><img width="16" height="16" src="./assets/icons/white_check_mark.svg" /></sub> Community name requirements
 
