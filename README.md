@@ -45,6 +45,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> Korea’s first university student big data joint club. \
 `#south-korea`, `#data`, `#data-engineering`, `#university`
 
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/cloud-club.avif">
+
+[**Cloud Club**](https://www.cloudclub.kr/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> IT Alliance Club of the Cloud, by the Cloud, for the Cloud. \
+`#south-korea`, `#cloud`, `#study`
+
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/cmc.avif">
 
 [**CMC** <sup>(Central MakeUs Challenge)</sup>](https://cmc.makeus.in/) \
