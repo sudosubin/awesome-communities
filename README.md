@@ -57,6 +57,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A club where developers and designers work together on side projects. \
 `#south-korea`, `#design`, `#develop`
 
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/depromeet.avif">
+
+[**Depromeet**](https://www.depromeet.com/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A growth-oriented community that experiences the entire process from planning, release, and improvement. \
+`#south-korea`, `#project`
+
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/dnd.avif">
 
 [**DND**](https://dnd.ac/) \
