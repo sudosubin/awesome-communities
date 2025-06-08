@@ -81,6 +81,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A group of developers who write blog articles. \
 `#south-korea`, `#writing`, `#it`, `#blog`
 
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/it-s-time.avif">
+
+[**IT's TIME**](https://its-time.notion.site/IT-s-TIME-715069e1238344938130b998480886be) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A club that turns new services that have never existed, and ideas with high business potential into reality. \
+`#south-korea`, `#university`, `#project`
+
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/kusitms.avif">
 
 [**KUSITMS** <sup>(Korean University Students IT, Management Society)</sup>](https://www.kusitms.com/) \
