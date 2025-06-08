@@ -129,6 +129,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A gathering for developers and designers leading the IT industry. \
 `#south-korea`, `#project`
 
+<img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/pap.avif">
+
+[**PAP**](https://playinpap.oopy.io/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A product data analysis community founded in September 2021 by seven product analysts, data analysts, and data product owners. \
+`#south-korea`, `#data`
+
 <img align="left" width="64" height="64" alt="Community Logo" src="./assets/communities/pirogramming.avif">
 
 [**Pirogramming**](https://pirogramming.com/) \
