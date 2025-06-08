@@ -233,6 +233,14 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program celebrates community experts, amplifies contributions and fosters a partnership with the Grafana team. \
 `#global`, `#grafana`
 
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/hashicorp-ambassadors.avif">
+
+[**Hashicorp Ambassadors**](https://www.hashicorp.com/en/ambassador) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Individuals who actively share knowledge about HashiCorp tools through content creation, local events and productive, thoughtful feedback.
+
+ \
+`#global`, `#hashicorp`
+
 ---
 
 ![AWS](./assets/banners/aws.avif)
