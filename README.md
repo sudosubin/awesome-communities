@@ -335,6 +335,40 @@ A curated list of awesome communities, and community programs.
 
 ---
 
+![Postman](./assets/banners/postman.avif)
+
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/postman-classroom.avif">
+
+[**Postman Classroom**](https://www.postman.com/student-program/#postman-classroom-program) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Teach your students with industry-standard Postman API tools so they can be ultra-prepared for today's world (and job market). \
+`#global`, `#postman`, `#educator`
+
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/postman-community-contribution-program.avif">
+
+[**Postman Community Contribution Program**](https://www.postman.com/community/contribution-program/) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> The Postman Community Contribution Program rewards individuals who contribute to the Postman community by educating others through the creation of content and events. \
+`#global`, `#postman`, `#contribution`
+
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/postman-leader.avif">
+
+[**Postman Leader**](https://www.postman.com/community/leader-program/) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Recognizing Postman Leaders for their contributions, which support, educate, and enrich the Postman community! \
+`#global`, `#postman`
+
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/postman-student-expert.avif">
+
+[**Postman Student Expert**](https://www.postman.com/student-program/#postman-student-expert-program) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Elevate your software development and API knowledge to help you in your career. \
+`#global`, `#postman`, `#university`
+
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/postman-student-leader.avif">
+
+[**Postman Student Leader**](https://www.postman.com/student-program/#postman-student-leader-program) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Take the next step after earning your Postman Student Expert badge and become a leader on your campus to teach your peers about APIs. \
+`#global`, `#postman`, `#university`
+
+---
+
 ![Slack](./assets/banners/slack.avif)
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/slack-champion-network.avif">
