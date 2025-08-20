@@ -91,7 +91,7 @@ A curated list of awesome communities, and community programs.
 
 [**HelloPY**](https://www.hello-py.com) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> HelloPY is a junior Python community where learners grow together through coding, projects, and collaboration. \
-`#SouthKorea`, `#Python`, `#Junior`, `#Gamification`, `#Quest`, `#Talks`
+`#south-korea`, `#python`, `#junior`, `#gamification`, `#quest`, `#talks`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/it-s-time.avif">
 
