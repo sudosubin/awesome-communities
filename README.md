@@ -87,6 +87,12 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A group of developers who write blog articles. \
 `#south-korea`, `#writing`, `#it`, `#blog`
 
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/hello-py.avif">
+
+[**HelloPY**](https://www.hello-py.com) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> HelloPY is a junior Python community where learners grow together through coding, projects, and collaboration. \
+`#south-korea`, `#python`, `#junior`, `#gamification`, `#quest`, `#talks`
+
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/it-s-time.avif">
 
 [**IT's TIME**](https://its-time.notion.site/IT-s-TIME-715069e1238344938130b998480886be) \
