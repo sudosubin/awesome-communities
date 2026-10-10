@@ -1,6 +1,6 @@
 repos:
   - repo: https://github.com/sudosubin/pre-commit-image
-    rev: v0.1.2
+    rev: v0.1.4
     hooks:
       - id: image
         name: image (banners)
