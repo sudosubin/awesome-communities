@@ -247,8 +247,8 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/grafana-champions.avif">
 
-[**Grafana Champion**](https://grafana.com/community/champions/) \
-<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program celebrates community experts, amplifies contributions and fosters a partnership with the Grafana team. \
+[**Grafana Champions**](https://grafana.com/community/champions/) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program that celebrates community experts, amplifies contributions, and fosters collaboration with the Grafana team. \
 `#global`, `#grafana`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/hashicorp-ambassadors.avif">
