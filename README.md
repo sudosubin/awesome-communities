@@ -132,7 +132,7 @@ A curated list of awesome communities, and community programs.
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/nexters.avif">
 
 [**NEXTERS**](https://nexters.co.kr/) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A gathering for developers and designers leading the IT industry. \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT union club where developers and designers ship products through study, build, and launch cycles. \
 `#south-korea`, `#project`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/pap.avif">
