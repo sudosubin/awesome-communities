@@ -335,7 +335,7 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/notion-champions.avif">
 
-[**Notion Champions**](https://notion.notion.site/Notion-Champions-20f977eb5fdd40d4a7a396f1742c3ea5) \
+[**Notion Champions**](https://www.notion.com/champions) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Champions are the biggest Notion fans inside of companies. \
 `#global`, `#notion`, `#enterprise`
 
