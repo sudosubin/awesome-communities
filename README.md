@@ -59,9 +59,9 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/ddd.avif">
 
-[**DDD**](https://www.facebook.com/dddstudy) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A club where developers and designers work together on side projects. \
-`#south-korea`, `#design`, `#develop`
+[**DDD** <sup>(Dynamic Developer Designer)</sup>](https://dddset.notion.site/DDD-7b73ca41b67c4658b292a4662581ee01) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A club where developers, designers, and PMs build side projects together. \
+`#south-korea`, `#design`, `#development`, `#side-project`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/depromeet.avif">
 
