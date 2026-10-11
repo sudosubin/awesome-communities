@@ -156,7 +156,7 @@ A curated list of awesome communities, and community programs.
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/sipe.avif">
 
 [**SIPE**](https://sipe.team/) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT community where developers in the field participate to learn and communicate. \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A community for working developers who learn together through studies, missions, and community conferences. \
 `#south-korea`, `#it`, `#networking`, `#study`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/sopt.avif">
