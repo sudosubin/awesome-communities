@@ -363,8 +363,8 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/postman-student-expert.avif">
 
-[**Postman Student Expert**](https://www.postman.com/student-program/#postman-student-expert-program) \
-<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Elevate your software development and API knowledge to help you in your career. \
+[**Postman Student Expert**](https://www.postman.com/learn/) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Self-paced API learning on Postman Learn (the Student Expert badge program has been sunset). \
 `#global`, `#postman`, `#university`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/postman-student-leader.avif">
