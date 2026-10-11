@@ -343,12 +343,6 @@ A curated list of awesome communities, and community programs.
 
 ![Postman](./assets/banners/postman.avif)
 
-<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/postman-classroom.avif">
-
-[**Postman Classroom**](https://www.postman.com/learn/) \
-<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Educator resources for teaching APIs with Postman (legacy Classroom program content now lives on Postman Learn). \
-`#global`, `#postman`, `#educator`
-
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/postman-community-contribution-program.avif">
 
 [**Postman Community Contribution Program**](https://community.postman.com/t/build-your-reputation-by-contributing-to-the-postman-community/80055) \
