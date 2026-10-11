@@ -83,7 +83,7 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/geultto.avif">
 
-[**Geultto**](https://zzsza.notion.site/ac5b18a482fb4df497d4e8257ad4d516) \
+[**Geultto**](https://geultto.github.io/blog/) \
 <sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A group of developers who write blog articles. \
 `#south-korea`, `#writing`, `#it`, `#blog`
 
