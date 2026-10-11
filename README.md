@@ -102,8 +102,8 @@ A curated list of awesome communities, and community programs.
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/kusitms.avif">
 
 [**KUSITMS** <sup>(Korean University Students IT, Management Society)</sup>](https://www.kusitms.com/) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT society that grows together with a vision. \
-`#south-korea`, `#university`
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT and business society for university students with meetups and corporate projects. \
+`#south-korea`, `#university`, `#business`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/likelion-university.avif">
 
