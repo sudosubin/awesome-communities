@@ -261,10 +261,10 @@ A curated list of awesome communities, and community programs.
 
 ![AWS](./assets/banners/aws.avif)
 
-<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/aws-cloud-clubs.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/aws-student-builder-groups.avif">
 
-[**AWS Cloud Clubs**](https://aws.amazon.com/developer/community/students/cloudclubs/) \
-<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> The student-led user groups for post-secondary level students and independent learners. \
+[**AWS Student Builder Groups**](https://builder.aws.com/community/student-builder-groups) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Student-led campus communities for cloud and AI learning, projects, and peer networking. \
 `#global`, `#aws`, `#university`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/aws-community-builders.avif">
