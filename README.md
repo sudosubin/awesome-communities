@@ -230,7 +230,7 @@ A curated list of awesome communities, and community programs.
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/datadog-ambassadors.avif">
 
 [**Datadog Ambassadors**](https://www.datadoghq.com/ambassadors/) \
-<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Technical experts and community leaders who share their knowledge, helping people build better applications infrastructure, and welcoming others to join the conversation. \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Technical experts and community leaders who share their knowledge, helping people build better application infrastructure, and welcoming others to join the conversation. \
 `#global`, `#datadog`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/docker-captains.avif">
