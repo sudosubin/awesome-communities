@@ -108,8 +108,8 @@ A curated list of awesome communities, and community programs.
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/likelion-university.avif">
 
 [**LIKELION UNIVERSITY**](https://likelion.university/) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An university IT startup club. \
-`#south-korea`, `#university`, `#web`
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A nationwide AI and IT maker community for university students. \
+`#south-korea`, `#university`, `#ai`, `#hackathon`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/mash-up.avif">
 
