@@ -180,8 +180,8 @@ A curated list of awesome communities, and community programs.
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/tave.avif">
 
 [**TAVE**](https://www.tave-wave.com/) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT union club leading the future through convergence with various fields. \
-`#south-korea`, `#university`, `#it`
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT union club for data, AI, web, app, and design study and projects. \
+`#south-korea`, `#university`, `#ai`, `#data`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/tobig-s.avif">
 
