@@ -149,9 +149,9 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/prography.avif">
 
-[**Prography**](https://pirogramming.com/) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT community creating new value. \
-`#south-korea`, `#project`
+[**Prography**](https://prography.org/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A cross-functional product club where planners, designers, and developers build revenue-oriented services. \
+`#south-korea`, `#project`, `#design`, `#startup`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/sipe.avif">
 
