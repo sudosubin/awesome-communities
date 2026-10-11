@@ -379,8 +379,8 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/slack-champion-network.avif">
 
-**Slack Champion Network** \
-<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A community run by Slack that provides access to Slack teams and change management resources. \
+[**Slack Champion Network**](https://slack.com/blog/collaboration/a-change-calls-for-champions) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Resources for internal champions who drive Slack adoption, rollout, and change management in organizations. \
 `#global`, `#slack`, `#enterprise`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/slack-community.avif">
