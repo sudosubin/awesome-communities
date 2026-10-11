@@ -301,6 +301,12 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/google.avif">
 
+[**GDG on Campus** <sup>(Google Developer Groups on Campus)</sup>](https://developers.google.com/community/gdg) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> University chapters where students learn Google technologies, run events, and grow as community organizers. \
+`#global`, `#google`, `#gdg`, `#university`
+
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/google.avif">
+
 [**Google Developer Experts**](https://developers.google.com/community/experts/) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Independent experts who share knowledge about Google technologies through talks, content, and mentorship. \
 `#global`, `#google`, `#gde`
