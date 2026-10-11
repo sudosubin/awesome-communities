@@ -137,9 +137,9 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/pap.avif">
 
-[**PAP**](https://playinpap.oopy.io/) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A product data analysis community founded in September 2021 by seven product analysts, data analysts, and data product owners. \
-`#south-korea`, `#data`
+[**PAP** <sup>(Product Analytics Playground)</sup>](https://playinpap.github.io/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A product analytics community for analysts and product builders sharing insights, content, and peer learning. \
+`#south-korea`, `#data`, `#product-analytics`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/pirogramming.avif">
 
