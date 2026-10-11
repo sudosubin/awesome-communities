@@ -211,8 +211,8 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/claude-campus-ambassadors.avif">
 
-[**Claude Campus Ambassadors**](https://www.anthropic.com/contact-sales/claude-campus-ambassadors) \
-<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program that works directly with the Anthropic team to launch outreach campaigns and educational programs on campus. \
+[**Claude Campus Ambassadors**](https://claude.com/programs/campus) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A campus program for student leaders running AI outreach, education, and community initiatives with Anthropic. \
 `#global`, `#claude`, `#university`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/cncf-ambassadors.avif">
