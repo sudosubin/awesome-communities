@@ -355,12 +355,6 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Recognizing Postman Leaders for their contributions, which support, educate, and enrich the Postman community! \
 `#global`, `#postman`
 
-<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/postman-student-leader.avif">
-
-[**Postman Student Leader**](https://www.postman.com/learn/) \
-<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Campus leadership resources on Postman Learn (the Student Leader program has been sunset). \
-`#global`, `#postman`, `#university`
-
 ---
 
 ![Slack](./assets/banners/slack.avif)
