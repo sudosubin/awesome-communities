@@ -24,7 +24,7 @@ A curated list of awesome communities, and community programs.
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/9oormthon-univ.avif">
 
 [**9oormthonUNIV**](https://9oormthon.university/) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An university IT club with Kakao, goorm, cherry blossoms, and maple leaves. \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A nationwide university IT program co-run by goorm and Kakao with hackathons and seasonal cohorts. \
 `#south-korea`, `#university`, `#hackathon`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/ausg.avif">
