@@ -345,8 +345,8 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/postman-classroom.avif">
 
-[**Postman Classroom**](https://www.postman.com/student-program/#postman-classroom-program) \
-<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Teach your students with industry-standard Postman API tools so they can be ultra-prepared for today's world (and job market). \
+[**Postman Classroom**](https://www.postman.com/learn/) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Educator resources for teaching APIs with Postman (legacy Classroom program content now lives on Postman Learn). \
 `#global`, `#postman`, `#educator`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/postman-community-contribution-program.avif">
