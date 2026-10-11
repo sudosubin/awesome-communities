@@ -48,7 +48,7 @@ A curated list of awesome communities, and community programs.
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/cloud-club.avif">
 
 [**Cloud Club**](https://www.cloudclub.kr/) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> IT Alliance Club of the Cloud, by the Cloud, for the Cloud. \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A vendor-neutral IT alliance club for cloud-native technologies and study. \
 `#south-korea`, `#cloud`, `#study`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/cmc.avif">
