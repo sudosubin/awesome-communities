@@ -168,7 +168,7 @@ A curated list of awesome communities, and community programs.
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/susc.avif">
 
 [**SUSC**](https://www.susc.kr/) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A community of university students sharing knowledge and experience. \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A cross-university vacation IT exchange network with studies, mentors, and SUSCON. \
 `#south-korea`, `#university`, `#study`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/swyp.avif">
