@@ -126,7 +126,7 @@ A curated list of awesome communities, and community programs.
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/monday9pm.avif">
 
 [**Monday9pm**](https://monday9pm.com/) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A gathering of developers who consistently write and share knowledge. \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An online community of developers who write and share knowledge on a seasonal schedule. \
 `#south-korea`, `#writing`, `#it`, `#blog`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/nexters.avif">
