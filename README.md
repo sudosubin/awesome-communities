@@ -173,9 +173,9 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/swyp.avif">
 
-[**SWYP**](https://swyp.swyg.im/) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A program where you can experience and grow together from ideation to launch while working on a project. \
-`#south-korea`, `#project`
+[**SWYP**](https://swyp.im/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A SWYG-run cohort program where PM, design, and engineering teams ship a product from ideation to launch. \
+`#south-korea`, `#project`, `#program`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/tave.avif">
 
