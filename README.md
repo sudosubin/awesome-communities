@@ -120,8 +120,8 @@ A curated list of awesome communities, and community programs.
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/medilux.avif">
 
 [**MEDILUX**](https://medilux.notion.site/MEDILUX-8f6b28b00b274bd697d05ea4d0a9afdc) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A healthcare startup club created through the voluntary interest of members in the healthcare industry. \
-`#south-korea`, `#university`, `#health-care`
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A healthcare startup union club for planners, developers, designers, and medical members. \
+`#south-korea`, `#startup`, `#health-care`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/monday9pm.avif">
 
