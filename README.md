@@ -351,8 +351,8 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/postman-community-contribution-program.avif">
 
-[**Postman Community Contribution Program**](https://www.postman.com/community/contribution-program/) \
-<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> The Postman Community Contribution Program rewards individuals who contribute to the Postman community by educating others through the creation of content and events. \
+[**Postman Community Contribution Program**](https://community.postman.com/t/build-your-reputation-by-contributing-to-the-postman-community/80055) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Community milestones recognize members who educate others through Postman content, answers, and events. \
 `#global`, `#postman`, `#contribution`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/postman-leader.avif">
