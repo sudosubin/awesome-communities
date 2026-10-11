@@ -192,8 +192,8 @@ A curated list of awesome communities, and community programs.
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/umc.avif">
 
 [**UMC** <sup>(University MakeUs Challenge)</sup>](https://umc.makeus.in/) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An university student development union club. \
-`#south-korea`, `#university`, `#study`
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A multi-campus university development union club focused on side projects and demo days. \
+`#south-korea`, `#university`, `#project`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/xreal.avif">
 
