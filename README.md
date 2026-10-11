@@ -54,7 +54,7 @@ A curated list of awesome communities, and community programs.
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/cmc.avif">
 
 [**CMC** <sup>(Central MakeUs Challenge)</sup>](https://cmc.makeus.in/) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT community where work together to create an MVP product for revenue generation for 3 months. \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT community where teams build a revenue-oriented MVP product together over three months. \
 `#south-korea`, `#project`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/ddd.avif">
