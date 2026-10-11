@@ -198,7 +198,7 @@ A curated list of awesome communities, and community programs.
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/xreal.avif">
 
 [**XREAL**](https://www.xreal.info/) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> The world's leading XR, metaverse research and startup network. \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An SNU-founded XR and metaverse research society and project network. \
 `#south-korea`, `#metaverse`, `#xr`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/yapp.avif">
