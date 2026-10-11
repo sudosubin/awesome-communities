@@ -114,7 +114,7 @@ A curated list of awesome communities, and community programs.
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/mash-up.avif">
 
 [**Mash Up**](https://mash-up.kr/) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT community where developers and designers collaborate to create innovative services, offering various programs and opportunities for growth. \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> An IT union club where students and working developers and designers build services through hackathons and platform teams. \
 `#south-korea`, `#project`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/medilux.avif">
