@@ -204,7 +204,7 @@ A curated list of awesome communities, and community programs.
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/yapp.avif">
 
 [**YAPP**](https://www.yapp.co.kr/) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A corporate IT community that starts with a small idea, changes the world, and grows together. \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A corporate IT union community where PM, design, and engineering teams ship products on Saturdays. \
 `#south-korea`, `#project`
 
 ## Community Programs
