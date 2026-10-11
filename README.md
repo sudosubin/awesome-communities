@@ -239,12 +239,6 @@ A curated list of awesome communities, and community programs.
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Technical experts and passionate community builders who drive Docker’s ecosystem forward. \
 `#global`, `#docker`
 
-<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/google-developer-experts.avif">
-
-[**Google Developer Experts**](https://developers.google.com/community/experts/) \
-<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Independent experts who share knowledge about Google technologies through talks, content, and mentorship. \
-`#global`, `#google`, `#gde`
-
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/grafana-champions.avif">
 
 [**Grafana Champions**](https://grafana.com/community/champions/) \
@@ -294,6 +288,16 @@ A curated list of awesome communities, and community programs.
 [**GitHub Stars**](https://stars.github.com/) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Recognize and lift up the people who inspire and educate your communities with the GitHub Stars program. \
 `#global`, `#github`
+
+---
+
+![Google](./assets/banners/google.avif)
+
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/google.avif">
+
+[**Google Developer Experts**](https://developers.google.com/community/experts/) \
+<sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> Independent experts who share knowledge about Google technologies through talks, content, and mentorship. \
+`#global`, `#google`, `#gde`
 
 ---
 
