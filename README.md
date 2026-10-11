@@ -283,9 +283,9 @@ A curated list of awesome communities, and community programs.
 
 ![GitHub](./assets/banners/github.avif)
 
-<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/github-compus-experts.avif">
+<img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/github-campus-experts.avif">
 
-[**GitHub Campus Experts**](https://education.github.com/experts) \
+[**GitHub Campus Experts**](https://github.com/education/students/campus-expert/) \
 <sub><img width="16" height="16" src="./assets/icons/earth_americas.svg" /></sub> A program for student leaders who build diverse and inclusive spaces to learn skills, share experiences, and build projects. \
 `#global`, `#github`, `#university`
 
