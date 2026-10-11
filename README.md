@@ -185,9 +185,9 @@ A curated list of awesome communities, and community programs.
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/tobig-s.avif">
 
-[**TOBIG's**](http://www.datamarket.kr/xe/) \
-<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A big data and ai academic union club. \
-`#south-korea`, `#data`, `#university`
+[**TOBIG's**](https://www.datamarket.ai.kr/) \
+<sub><img width="16" height="16" src="./assets/icons/flag-kr.svg" /></sub> A big data and AI academic union club. \
+`#south-korea`, `#data`, `#ai`, `#university`
 
 <img align="left" width="76" height="76" alt="Community Logo" src="./assets/communities/umc.avif">
 
